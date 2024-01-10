@@ -65,3 +65,9 @@ Haurà de respondre a:
 
     http://localhost:9001/HelloWorld2
     http://localhost:9001/HelloWorld2/el meu nom
+
+## Recursos adicionales
+
+StackOverflow - Service layer: https://stackoverflow.com/questions/5702391/mvcs-model-view-controller-service
+
+Youtube - Julian Mesa - Postman: https://www.youtube.com/playlist?list=PLeo6Q1inqlOeC_zQMg2i3aZcGF_Jmyqd4
