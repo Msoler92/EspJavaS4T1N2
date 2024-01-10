@@ -66,7 +66,7 @@ Haurà de respondre a:
     http://localhost:9001/HelloWorld2
     http://localhost:9001/HelloWorld2/el meu nom
 
-## Recursos adicionales
+## Recursos addicionals
 
 StackOverflow - Service layer: https://stackoverflow.com/questions/5702391/mvcs-model-view-controller-service
 
