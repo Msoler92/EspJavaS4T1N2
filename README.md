@@ -65,8 +65,3 @@ Haurà de respondre a:
 
     http://localhost:9001/HelloWorld2
     http://localhost:9001/HelloWorld2/el meu nom
-
-## Recursos addicionals
-Deplying Spring Boot applications - https://spring.io/blog/2014/03/07/deploying-spring-boot-applications/
-
-Youtube - Julian Mesa - Postman: https://www.youtube.com/playlist?list=PLeo6Q1inqlOeC_zQMg2i3aZcGF_Jmyqd4
